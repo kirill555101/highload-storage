@@ -313,7 +313,7 @@ Redis, PostgreSQL | Database
 ## 6. Схема проекта <a name="part-6"></a>
 Схема проекта представлена на рисунке 2.
 
-![Схема проекта](https://github.com/kirill555101/highload-storage/blob/main/images/project-diagram.png)
+<p align="center"><img src="https://github.com/kirill555101/highload-storage/blob/main/images/project-diagram.png"></p>
 <p align="center">Рисунок 2 - Схема проекта</p>
 
 Для балансировки применяется:
