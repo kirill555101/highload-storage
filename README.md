@@ -379,8 +379,8 @@ CPU | RAM (Гб) | Тип диска | Объем диска (Тб) | Пропу
 32  | 512      | HDD       | 8x4              | 20
 
 Выделим предельные значения RPS на ядро для:
-* Nginx - 250
-* Golang - 100
+* Nginx - 250 [6]
+* Golang - 100 (возьмем наихудший вариант)
 
 Выделим предельные значения памяти в Тб для:
 * Files = 4 652 500
@@ -412,3 +412,4 @@ PostgreSQL | 1x2                 | 2
 3. https://www.similarweb.com/ru/website/dropbox.com
 4. https://www.dropbox.com/plans
 5. https://expandedramblings.com/index.php/dropbox-statistics/
+6. https://www.loggly.com/blog/benchmarking-5-popular-load-balancers-nginx-haproxy-envoy-traefik-and-alb/
