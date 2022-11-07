@@ -327,7 +327,7 @@ Backend будет состоять из 3-м микросервисов:
 * Payment microservice - микросервис для работы с оплатой
 * Access microservice - микросервис для работы с доступом
 
-Файлы будут храниться на серверах с Access microservice
+Файлы будут храниться на серверах с Access microservice.
 
 
 ## 7. Список серверов <a name="part-7"></a>
